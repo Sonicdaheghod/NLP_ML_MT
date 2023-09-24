@@ -108,6 +108,6 @@ weighted avg       0.88      0.86      0.84         7
 ```
 ## Credits
 
-* Tutorial referenced: [Goeduhub Technologies]([https://youtu.be/3y9XVlk9cDA?](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/model-selection-results?u=74412268))
+* Tutorial referenced: [Goeduhub Technologies](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/model-selection-results?u=74412268)
 * Dataset from [User]()
 
